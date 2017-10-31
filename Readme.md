@@ -1,7 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Dina Vdovenko](https://up.htmlacademy.ru/htmlcss/19/user/346877).
-
+* Наставник: [Сергей Попенко](https://htmlacademy.ru/profile/id66243)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
